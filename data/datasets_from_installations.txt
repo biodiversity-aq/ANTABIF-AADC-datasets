@@ -1,0 +1,341 @@
+dataset	installation
+AAD Benthic Sampling Database	AADC DiGIR
+ARGOS Satellite Tracking of animals	AADC DiGIR
+Kelp rafts in the Southern Ocean	AADC DiGIR
+Subantarctic Fur sealsat Heard Island, 1987/88	AADC DiGIR
+10 year trend of levels of organochlorine pollutants in Antarctic seabirds 2003/04	AADC IPT
+2007-08 Voyage 3 of the Aurora Australis, CEAMARC-CASO Krill Data	AADC IPT
+2016 Aerial survey data of southern right whales (Eubalaena australis) off southern Australia	AADC IPT
+ABBBS Bird Banding records from the Australian Antarctic Territory and Heard Island	AADC IPT
+APIS - Antarctic Pack Ice Seals 1994-1999, plus historical data from the 1980s	AADC IPT
+Abatus Microsatellites data set 2009/13	AADC IPT
+Abundances of benthic invertebrate species in the CEAMARC region 2007/08	AADC IPT
+Annotated Atlas of the Vascular Flora of Macquarie Island - 1979	AADC IPT
+Antarctic Fur Seal Populations on Heard Island Summer 1987-1988	AADC IPT
+Antarctic Marine Protists species checklist	AADC IPT
+Australia's Census of Antarctic Marine Life project - IYGPT Data collected on the CEAMARC cruise 2007/08	AADC IPT
+Australian Antarctic Division Herbarium	AADC IPT
+Biology and population studies of two endemic orchid species on sub-Antarctic Macquarie Island	AADC IPT
+Biology of Southern Ocean squid, ecological importance and potential commercial implications - a preliminary assessment 1995/2006	AADC IPT
+Bunger Hills, 1999/2000 survey - nest sites of snow petrels Pagodroma nivea	AADC IPT
+Cape Darnley Early-Autumn Phytoplankton Bloom, March 2012	AADC IPT
+Cetacean Sightings Survey and Southern Ocean cetacean program	AADC IPT
+Diatom abundance from CEAMARC coretop samples 2007/08	AADC IPT
+Diatom and foraminiferal samples from surficial sediments of Prydz Bay, Antarctica	AADC IPT
+Diatoms from SAZ Sediment traps	AADC IPT
+Diatoms from the Vestfold Hills Lakes	AADC IPT
+Diet results from Adelie penguins at Bechervaise Island and Whitney Point, 2012/13	AADC IPT
+Diversity and evolution of Australian Antarctic sea spiders: Understanding species diversification and distribution patterns	AADC IPT
+Duck sightings per month, Macquarie Island	AADC IPT
+Ecology and Zoogeography of Parasites of Antarctic Fish	AADC IPT
+Electron Micrograph Database - Marine Specimens	AADC IPT
+Electron Micrograph Database - Terrestrial and Limnetic Specimens	AADC IPT
+Elephant Seal Sightings, Heard Island	AADC IPT
+Exotic terrestrial flatworms, Macquarie Island	AADC IPT
+Fish catch from 1996/97 Voyage 1 WASTE (WOCE Antarctic Southern Transect Expedition)	AADC IPT
+Foraging zones of Macaroni Penguins breeding at Heard Island 2000	AADC IPT
+Further investigations of the effects of the Nella Dan oil spill 1988/94	AADC IPT
+Gross body measurements of Antarctic Rock Cod (Trematomus bernacchii) collected at sites adjacent to Casey Station 2012/13	AADC IPT
+Gross body measurements of Laternula elliptica collected from sites adjacent to Casey Station 2014/15	AADC IPT
+Heard Island Shag Phalacrocorax nivalis census, Heard Island 1992	AADC IPT
+High occurrence of jellyfish predation by black-browed and Campbell albatross identified by DNA metabarcoding 2017	AADC IPT
+Hydroids of the BANZARE Antarctic expeditions 1929 - 1931	AADC IPT
+Ice core meiofauna during the SIPEX and SIPEX II voyages	AADC IPT
+Inventory of Antarctic seabird breeding sites	AADC IPT
+Invertebrate survey, Heard Island 2001	AADC IPT
+Invertebrates compiled by W.Block	AADC IPT
+Kelp rafts in the Southern Ocean	AADC IPT
+Kelp rafts in the Southern Ocean: intercontinental travel for sessile and semi-sessile organisms 2010	AADC IPT
+King penguin census data, Gadget Gully, Macquarie Island (1993-2008)	AADC IPT
+Length and weight of Antarctic Rock Cod (Trematomus bernacchii) from sites adjacent to Davis Station 2012/13	AADC IPT
+Leopard Seal census, Heard Island 1987/88	AADC IPT
+Leopard and Weddell seal program  1999/2002	AADC IPT
+Macquarie Island Fur Seal Database	AADC IPT
+Marine fauna survey of the Vestfold Hills and Rauer Island, 1981-82	AADC IPT
+Microalgal Biodiversity at Antarctica 2001/04	AADC IPT
+Morphological Responses of Abatus heart urchins to Sewage Contamination at Davis Station 2012/13	AADC IPT
+Moss sampling in the Windmill Islands and the Vestfold Hills	AADC IPT
+Moss species from Heard Island, 1987 and 2000	AADC IPT
+Nest census, Windmill Islands 2002/03	AADC IPT
+Orca observations from the shores of Macquarie Island	AADC IPT
+Patterns of population genetic structure among Australian and South Pacific humpback whales 2007/11	AADC IPT
+Pelagic Fish Observations 1968-1999	AADC IPT
+Phytoplankton samples - 2001/02 V3 CLIVAR	AADC IPT
+Phytoplankton samples - 2001/02 V7 LOSS	AADC IPT
+Phytoplankton samples - 2005/06 V3 BROKE-West	AADC IPT
+Phytoplankton samples - 2006/07 V3 SAZ-Sense	AADC IPT
+Population abundance, trend, structure and distribution of the endangered Antarctic blue whale - Satellite Tag	AADC IPT
+Presence of Disease in the Penguins and Skuas of Macquarie Island 2006	AADC IPT
+RMT Trawl catch from 1985/86 V1 ADBEX III voyage	AADC IPT
+RMT Trawl catch from the 1980/81 V5 FIBEX voyage	AADC IPT
+RMT Trawl catch from the 1982/83 V2 ADBEX I voyage	AADC IPT
+RMT Trawl catch from the 1983/84 V5 ADBEX II voyage	AADC IPT
+RMT Trawl catch from the 1984/85 V5 SIBEX2 voyage	AADC IPT
+RMT Trawl catch from the 1986/87 V7 AAMBER voyage	AADC IPT
+RMT Trawl catch from the 1990/91 V6 AAMBER2 voyage	AADC IPT
+RMT Trawl catch from the 1992/93 V6 KROCK voyage	AADC IPT
+RMT Trawl catch from the 1995/96 V4 BROKE voyage	AADC IPT
+RMT Trawl catch from the 2005/06 V3 BROKE-West voyage - Fish	AADC IPT
+RMT Trawl catch from the 2005/06 V3 BROKE-West voyage - Zooplankton	AADC IPT
+Resilience of Antarctic marine benthic invertebrates and the ecological consequences of environmental change - Amphipod Data 2002/10	AADC IPT
+Rotifers of Macquarie Island	AADC IPT
+Royal penguin Eudyptes schlegeli census and observations at North Head, Macquarie Island 1952/53	AADC IPT
+Royal penguin Eudyptes schlegeli census, Macquarie Island, 1984	AADC IPT
+Sample summary and analysis of biopsy samples collected during the Antarctic blue whale voyage 2013	AADC IPT
+Sample summary and analysis of biopsy samples collected during the New Zealand Australian Antarctic Ecosystems Voyage 2015	AADC IPT
+Seabirds of the Southern and South Indian Ocean	AADC IPT
+Snow Petrel census, Reeve Hill, Windmill Islands, East Antarctica (1984-2003)	AADC IPT
+Snow Petrel nest census, Mawson region 2004/05	AADC IPT
+Soft sediment assemblages at Casey Station: Brown Bay Grid - samples taken along a pollution gradient.	AADC IPT
+Southern Giant Petrel census data within the Australian Antarctic Territory	AADC IPT
+Southern Ocean Continuous Zooplankton Recorder (SO-CPR) Survey	AADC IPT
+Spring Phytoplankton Assemblages in the Southern Ocean Between Australia and Antarctica (CLIVAR-SR3)	AADC IPT
+Squid collection from 1995/96 V4 BROKE	AADC IPT
+Squid specimens from the 1991/92 V6 AAMBER2 voyage	AADC IPT
+Stable isotope data from marine sediment and invertebrates from Davis Station 2009/10	AADC IPT
+Survey of benthic and other marine invertebrates of Prydz Bay, 1990/91 Voyage 6	AADC IPT
+Systematic list of benthic invertebrates identified in the Heard Island and McDonald Islands region from 129 beam trawl or epibenthic sled samples 2003/08	AADC IPT
+The Ecology and Biogeography of Heard Island Marine Benthos 1987/88	AADC IPT
+Toxicity of copper to three Macquarie Island marine gastropods 2013/15	AADC IPT
+Toxicity of copper, cadmium and zinc to Macquarie Island marine invertebrates 2012/15	AADC IPT
+Type Localities for organisms and fossils first described from Antarctica	AADC IPT
+Venom on ice: Novel venoms from Antarctic marine animals 2007/08	AADC IPT
+Weddell Seal Sightings, Vestfold Hills, Antarctica	AADC IPT
+Weddell Seal census, Vestfold Hills, Antarctica	AADC IPT
+Whale Observations from the British, Australian and New Zealand Antarctic Research Expedition (BANZARE) voyages 1929-30 and 1930-31	AADC IPT
+Whale catches in the Southern Ocean	AADC IPT
+Whale log - observations from ANARE voyages	AADC IPT
+Winter Foraging Locations Of Southern Ocean Predators - sub-Antarctic islands 2008/09	AADC IPT
+Zooplankton Abundance_Umbrella net_sea ice zone 2007/12	AADC IPT
+Zooplankton abundance in the Kerguelen Axis region 2016	AADC IPT
+A collection of Antarctic Nemertea	ANTABIF IPT
+A collection of Antarctic Phipoda	ANTABIF IPT
+ANTAVIA TrackingKing	ANTABIF IPT
+ANTXXIII-8 Birds and Mammals	ANTABIF IPT
+Admiralty Bay Benthos Diversity Data Base (ABBED). Cumacea.	ANTABIF IPT
+Admiralty Bay Benthos Diversity Data Base (ABBED). Polychaeta. 1979-80	ANTABIF IPT
+Admiralty Bay Benthos Diversity Data Base (ABBED). Pycnogonida.	ANTABIF IPT
+Admiralty Bay Benthos Diversity Data Base (ABBED). Tanaidacea.	ANTABIF IPT
+Aeolian microbial dispersal limitation to Antarctica (2017)	ANTABIF IPT
+Airborne Bacteria from Miers Valley, Antarctica	ANTABIF IPT
+Amphipoda Hyperiidea of the Southern Ocean:  catalogue and occurrences	ANTABIF IPT
+Annelid Fauna of the Prince Gustav Channel, a previously ice-covered seaway on the northeastern Antarctic Peninsula - Data	ANTABIF IPT
+Ant'Phipoda Database (New records)	ANTABIF IPT
+Antarctic Amphipod Crustaceans: Ant'Phipoda Database (BIANZO)	ANTABIF IPT
+Antarctic Amphipoda	ANTABIF IPT
+Antarctic Arrow worms	ANTABIF IPT
+Antarctic Echinoids: an interactive database	ANTABIF IPT
+"Antarctic Euphausiacea occurence data from ""German Antarctic Marine Living Resources"" (GAMLR) Expeditions"	ANTABIF IPT
+Antarctic Euphausiacea occurence data from Norwegian Antarctic Research Expedition 1976-77	ANTABIF IPT
+Antarctic Euphausiacea occurence data from Polish FIBEX expeditions	ANTABIF IPT
+Antarctic Euphausiacea occurrence data from ITALICA 2000 Expedition	ANTABIF IPT
+Antarctic Euphausiacea occurrence data from Norwegian Antarctic Research Expedition 1979	ANTABIF IPT
+Antarctic Foraminiferans	ANTABIF IPT
+Antarctic Isopods	ANTABIF IPT
+Antarctic Jellyfish	ANTABIF IPT
+Antarctic Krill Euphausia superba	ANTABIF IPT
+Antarctic Krill occurrence data from Australian expeditions	ANTABIF IPT
+Antarctic Krill occurrence data from BAS expeditions	ANTABIF IPT
+Antarctic Krill occurrence data from Discovery expeditions	ANTABIF IPT
+Antarctic Krill occurrence data from Japanese expeditions	ANTABIF IPT
+"Antarctic Krill occurrence data from Spanish  RV ""Fruela"""	ANTABIF IPT
+"Antarctic Krill occurrence data from US AMLR  ""US Antarctic Marine Living Resources"" Program"	ANTABIF IPT
+Antarctic Krill occurrence data from Ukraine YUGNIRO Institute	ANTABIF IPT
+Antarctic Marine Amoebae	ANTABIF IPT
+Antarctic Marine Bacteria from Denmark University	ANTABIF IPT
+Antarctic Marine Species Sequence Data	ANTABIF IPT
+Antarctic Nemertea	ANTABIF IPT
+Antarctic Parborlasia corrugatus	ANTABIF IPT
+Antarctic Penguin Biogeography Project: Database of abundance and distribution for the Adélie, chinstrap, gentoo, emperor, macaroni, and king penguin south of 60 S	ANTABIF IPT
+Antarctic Peninsula Bacterioplankton 16S rRNA gene surveys and metagenomes from Winter 2002 and Summer 2006.	ANTABIF IPT
+Antarctic Pycnogonids II	ANTABIF IPT
+Antarctic Rotifera literature review	ANTABIF IPT
+Antarctic Starfish (Echinodermata: asteroidea) from the ANDEEP3 expedition	ANTABIF IPT
+Antarctic Surface Snow Bacterial Communities	ANTABIF IPT
+Antarctic and Sub-Antarctic Asteroidea database 2017	ANTABIF IPT
+Antarctic and SubAntarctic Ophiuroidea - MNA (Section of Genoa)	ANTABIF IPT
+Antarctic and Subantarctic Asteroid zoogeography	ANTABIF IPT
+Antarctic and sub-Antarctic Lophogastrida occurrences	ANTABIF IPT
+Antarctic cryosphere fungal diversity (2015)	ANTABIF IPT
+Antarctic cryptoendolithic fungal communities ITS amplicon sequencing	ANTABIF IPT
+Antarctic fish Gobionotothen gibberifrons	ANTABIF IPT
+Antarctic macrobenthic communities: A compilation of circumpolar information	ANTABIF IPT
+Antarctic pack ice Bacterial (16S) communities	ANTABIF IPT
+Antarctic polar desert surface soil microbiome	ANTABIF IPT
+Antarctic pycnogonids	ANTABIF IPT
+Antarctic snow algae communities	ANTABIF IPT
+Antarctic, Sub-Antarctic and cold temperate echinoid database	ANTABIF IPT
+Archaea from the ANDEEP3 expedition	ANTABIF IPT
+Arctic Ocean microbial metagenomes sampled aboard CGC Healy during the 2015 GEOTRACES Arctic research cruise	ANTABIF IPT
+Arctic multi-year sea ice Bacteria	ANTABIF IPT
+Argentina–Chile National Geographic Pristine Seas Expedition To The Antarctic Peninsula - Deep Sea Cam Data	ANTABIF IPT
+Associated microbiome (Bacteria and Fungi) in Antarctic sea stars (healthy versus exhibiting epidermal disease)	ANTABIF IPT
+Asteroids from French subantarctic islands: records from the Marion Dufresne MD03 expeditions	ANTABIF IPT
+Asteroids, ophiuroids and holothurians from the South-Eastern Weddell Sea (Southern Ocean)	ANTABIF IPT
+BCCM/ULC Cyanobacteria culture collection at the University of Liège (ISO9001 certified)	ANTABIF IPT
+Bacteria (16S ssu rRNA) in an Antarctic snow sample	ANTABIF IPT
+Bacteria (16S) and Eukaryotes (18S) from the Sor Rondane Mountains (East Antarctica)	ANTABIF IPT
+Bacteria (16S) in Antarctic terrestrial soils of the Sor Rondane Mountains	ANTABIF IPT
+Bacteria (16S) in growth laminae of a large conical mats from Lake Untersee, East Antarctic	ANTABIF IPT
+Bacteria and Archaea biodiversity in Arctic and Subarctic terrestrial ecosystems in Alaska	ANTABIF IPT
+Bacteria and Archaea biodiversity in Arctic terrestrial ecosystems affected by climate change in Northern Siberia	ANTABIF IPT
+Bacteria and Archaea biodiversity in terrestrial ecosystems of Chilean Patagonia	ANTABIF IPT
+Bacteria and Archaea in different soil types on King George Island (South Shetland Islands, Antarctica)	ANTABIF IPT
+Bacteria and chlorophyll-a water column observations (surface to ~150m), April-August 2001, Continental Margin Western Antarctic Peninsula, GLOBEC	ANTABIF IPT
+Bacteria from Penguin Guano, Antarctica	ANTABIF IPT
+Bacteria in Antarctic glacial foreland soils	ANTABIF IPT
+Bacteria on mummified seals in the Antarctic Dry Valleys	ANTABIF IPT
+Bacterial Diversity Assessment in Antarctic Terrestrial and Aquatic Microbial Mats	ANTABIF IPT
+Bacterial community during Phaeocystis antarctica blooms (Amundsen Sea polynya)	ANTABIF IPT
+Bacterial diversity in closed cryoconite holes in Southern Victoria Land (Antarctica)	ANTABIF IPT
+Bacterial in the Amundsen Sea Polynya (Southern Ocean): community composition in environmental samples and mesocosm experiment	ANTABIF IPT
+Bacterioplankon from lakes on Byers Peninsula (2008)	ANTABIF IPT
+Bacterioplankton in surface waters off the northern tip of the Antarctic Peninsula	ANTABIF IPT
+Benthic microbial communities (Bacteria, 16S) of coastal terrestrial and ice shelf Antarctic meltwater ponds	ANTABIF IPT
+Biogeographic distribution of Antarctic and sub-Antarctic Cumacea	ANTABIF IPT
+Biogeographic distribution of Antarctic and sub-Antarctic Mysida	ANTABIF IPT
+Biogeographic distribution of the Antarctic and Sub-Antarctic brachiopods (living forms)	ANTABIF IPT
+Biopearl expedition: SeaStars (Echinodermata, Asteroidea)	ANTABIF IPT
+Bryozoa collection of the Italian National Antarctic Museum (MNA) - Data	ANTABIF IPT
+CCAMLR historic KRILL	ANTABIF IPT
+CEAMARC Eastern Antarctic Gelatinous Mesozooplankton (Cnidaria and Ctenophora)	ANTABIF IPT
+Carotenoid producing bacteria from Antarctica	ANTABIF IPT
+Circumpolar dataset of sequenced specimens of Promachocrinus kerguelensis (Echinodermata, Crinoidea)	ANTABIF IPT
+Collections data on ecology of bottom animal of the Southern ocean	ANTABIF IPT
+Community diversity in microbial eukaryotes from lakes in the the Vestfold Hills, Antarctica	ANTABIF IPT
+Cyanobacteria in microbial mats from Antarctic lakes	ANTABIF IPT
+DNA metabarcoding of the prey and microbiome of museum specimen Antarctic trematomid fishes	ANTABIF IPT
+Distribution records of Amphipoda based on the collection stored at the Italian National Antarctic Museum (MNA)	ANTABIF IPT
+Distributional records of Ross Sea (Antarctica) planktonic Copepoda from bibliographic data and samples curated at the Italian National Antarctic Museum (MNA)	ANTABIF IPT
+Distributional records of sea cucumbers (Echinodermata, Holothuroidea) based on the collection stored at the Italian National Antarctic Museum (MNA, section of Genoa)	ANTABIF IPT
+EPOS3: SeaStars (Echinodermata, Asteroidea)	ANTABIF IPT
+East Weddell Sea echinoids from the JR275 expedition	ANTABIF IPT
+Echinoids_Kerguelen_Plateau_1872_2015	ANTABIF IPT
+Echinoids_occurrences_Southern_Ocean	ANTABIF IPT
+Epipelagic mesozooplankton distribution and abundance in Southern Ocean Atlantic sector and the North Atlantic and Arctic 1996-2013	ANTABIF IPT
+Evidence of a Vulnerable Marine Ecosystem documented via tourist submarine off Cape Well-Met, Vega Island, Eastern Antarctic Peninsula (Subarea 48.1) - data	ANTABIF IPT
+Fungal communities (ITS) in Antarctic brines.	ANTABIF IPT
+Fungi (LSU) in soils from the South Shetland island, Antarctic Peninsula island, and Union Glacier	ANTABIF IPT
+Geomicrobiology of Antarctic Subglacial Environments - Subglacial Lake Whillans	ANTABIF IPT
+Geothermal Fumarole Subsurface Mt. Erebus, Antarctica	ANTABIF IPT
+Global biogeography of desert cyanobacteria	ANTABIF IPT
+Gut content of Antarctic krill Euphausia superba from the West Antarctic Peninsula	ANTABIF IPT
+Heterotrophic bacterial diversity in aquatic microbial mat communities from Antarctica	ANTABIF IPT
+High gene flow in polar cod (Boreogadus saida) from West-Svalbard and the Eurasian Basin - Occurrence Data	ANTABIF IPT
+Hypolithic and soil bacteria in Miers_Valley, Antarctica	ANTABIF IPT
+ITS samples from the air and snow of Livingston Island	ANTABIF IPT
+Icota - Pelagant	ANTABIF IPT
+Improving Species-Based Area Protection in Antarctica - data	ANTABIF IPT
+In situ observations of Stygiomedusa gigantea	ANTABIF IPT
+Inter-Valley Soil Comparative Survey of the McMurdo Dry Valleys	ANTABIF IPT
+Invertebrates from the ANTARXXVII Leg1 expedition to the Bransfield Strait, Antarctica - data	ANTABIF IPT
+Isopoda of the Southern Ocean: New Records from the Ross Sea Area by the National Antarctic Museum (MNA) Genoa Section	ANTABIF IPT
+KRILLBASE_antarctickrillssalpsdensity_1926_2016	ANTABIF IPT
+Krill abundance, vertical and horizontal distribution (MOCNESS system), April-June 2001-02, continental margin west of Antarctic Peninsula, GLOBEC.	ANTABIF IPT
+Lissarca notorcadensis BAS CAML	ANTABIF IPT
+MNA (Section of Genoa) - Marine Biological Samples	ANTABIF IPT
+MNA (Section of Genoa) and NIWA Invertebrate Collection - Ross Sea Tanaidacea	ANTABIF IPT
+MNA (Section of Genoa) associated collection of CCFEE (Tuscia University) - Antarctic Fungi	ANTABIF IPT
+MNA CIBAN Italian Antarctic Bacterial Culture Collection	ANTABIF IPT
+MNA Italica 2004_Rauschert dredge_Ross_sea_Mollusca_lgp	ANTABIF IPT
+Macrozooplankton concentrations estimated from MOCNESS tow samples, Continental Margin Western Antarctic Peninsula, GLOBEC	ANTABIF IPT
+Mamíferos marinos en las expediciones del INACH	ANTABIF IPT
+Marine bacterial, archaeal and eukaryotic microbial communities on the continental shelf of the western Antarctic Peninsula	ANTABIF IPT
+Marine bacterioplankton community structure in the vicinity of Antarctic icebergs	ANTABIF IPT
+Marine birds and mammals of the Southern Ocean (a census for the CAML)	ANTABIF IPT
+Marine_ microbial eukaryotes (18S) from the Ross Sea (Antarctica)	ANTABIF IPT
+Maritime and Sub-Antarctic microbial soil fungi communities	ANTABIF IPT
+Metagenome assembly of an Amundsen Sea (Antarctica, Southern Ocean) water sample	ANTABIF IPT
+Metatranscriptome from microbial mats in Arctic and Antarctic polar tundra environments	ANTABIF IPT
+Microbes (16S and 18S rRNA genes) from benthic Antarctic sediments	ANTABIF IPT
+Microbes (Eukaryotes and Archaea) in sea water from Fildes Peninsula (King George Island, Antarctica)	ANTABIF IPT
+Microbial (16S) diversity in sediments of the former subglacial Hodgson lake (Antarctica)	ANTABIF IPT
+Microbial (Bacteria, 16S) Diversity in Antarctic marine sediments (Admiralty Bay and Bransfield Strait)	ANTABIF IPT
+Microbial Fungi in soils on different Sub-Antarctic islands	ANTABIF IPT
+Microbial communities (Bacteria and Archaea) in Lake Fryxell (Antarctica) along an oxygen gradient	ANTABIF IPT
+Microbial communities (Bacteria, Eukaryotes and Fungi) in Arctic, Antarctic and Sub-Antarctic lacustrine biofilms	ANTABIF IPT
+Microbial communities (Eukaryotes and Bacteria) of transiently wetted vs. arid Antarctic Dry Valley soils	ANTABIF IPT
+Microbial communities in colored snow from Fildes Peninsula (King George Island, Maritime Antarctica, 2017)	ANTABIF IPT
+Microbial diversity (Bacteria and Archaea 16S rRNA gene) in geothermal sites of Deception Island volcano, Antarctica	ANTABIF IPT
+Microbial fungal communities (18S) of Antarctic Dry Valley lakes	ANTABIF IPT
+Microbial metabarcoding surveys (Bacteria, Archaea and Eukaryota) of the arctic marine environment	ANTABIF IPT
+Microbial population dynamics along a terrestrial Antarctic moisture gradient	ANTABIF IPT
+Microbial soil Fungi (ITS2) diversity from Maritime Antarctica	ANTABIF IPT
+Microbiome (Archaea, Bacteria and Eukaryota) of lake Fryxell and lake Bonney (McMurdo Dry Valleys, Antarctica)	ANTABIF IPT
+Microbiome (Archaea, Bacteria and Fungi) in soils from King George Island (Antarctica)	ANTABIF IPT
+Microbiome (Bacteria, Archaea and fungi) from University Valley Permafrost cores (Antarctica)	ANTABIF IPT
+Microbiome diversity in the Sør Rondane Mountains, East Antarctica	ANTABIF IPT
+Microorganisms (Bacteria 16S; Eukaryota 18S) from soil crusts in polar (Arctic and Antarctic) ecosystems	ANTABIF IPT
+Microorganisms (Bacteria and Archaea) in the marine cavity beneath the McMurdo Ice Shelf, Antarctica	ANTABIF IPT
+Microorganisms (Bacteria, Archaea and phototroph eukaryotes) from Fildes Bay, King George Island, Antarctica	ANTABIF IPT
+Microorganisms (eukaryote and bacteria) in Antarctic cryoconite holes.	ANTABIF IPT
+Microorganisms in Paleomats at the shores of lake Vanda, Antarctica	ANTABIF IPT
+Microorganisms in frost flowers on young Arctic sea ice, comparison between different ice types	ANTABIF IPT
+Mitochondrial lineages in the Antarctic sea slug Doris kerguelenensis	ANTABIF IPT
+Mollusca collected by Agassiz trawl from the 2016 SO-AntEco Expedition to the South Orkney Islands, Antarctica - data	ANTABIF IPT
+Museo Argentino de Ciencias Naturales (MACN), Buenos Aires: sea stars collection (Asteroidea, Echinodermata)	ANTABIF IPT
+Myctobase, a circumpolar database of mesopelagic fishes for new insights into deep pelagic prey fields - data	ANTABIF IPT
+Near‐shore microbial communities (Eukaryotes, Bacteria and Archaea) of the sub‐Antarctic Prince Edward Islands	ANTABIF IPT
+Nemertina World Checklist	ANTABIF IPT
+New Zealand Terrestrial Biocomplexity Survey	ANTABIF IPT
+Palmer LTER 2014 cruise microbial Eukaryote (18s) plankton	ANTABIF IPT
+Pelagic microbes (Eukaryote 18S and Material 16S amplicons) from sites in the Southern, Indian and Arctic Oceans	ANTABIF IPT
+Penguins of Antarctica	ANTABIF IPT
+Photodocumentation_of_Antarctic_Peninsula_Lichens	ANTABIF IPT
+Planktonic, benthic and sympagic copepods collected in the desalination unit during the XXXIVth Expedition of the Italian National Antarctic Program (PNRA)	ANTABIF IPT
+PolE At Sea Observations of Birds and Marine Mammals during PS 81 (ANT-XXIX/4)	ANTABIF IPT
+Porifera collection of the Italian National Antarctic Museum (MNA) - Data	ANTABIF IPT
+Promachocrinus kerguelensis	ANTABIF IPT
+Protist diversity in a permanently ice-covered Antarctic Lake during the polar night transition	ANTABIF IPT
+RNA-Virome (RNA shotgun sequencing) from lake Limnopolar on Livingston Island (Antarctica)	ANTABIF IPT
+Ross Sea Pycnogonids	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - Antarctic free-living marine Nematodes - Data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - Benthic Hydroids (Cnidaria: Hydrozoa) - data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - Benthic Ostracoda - Data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - Lophogastrida and Mysida (Crustacea: Malacostraca: Peracarida) of the Southern Ocean - Data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - Porifera - Data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - Tanaidacea - Data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - Tintinnid Ciliates of the Southern Ocean - Data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - foraminifera- Data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean - macroalgae - Data	ANTABIF IPT
+SCAR Biogeographic Atlas of the Southern Ocean -Harpacticoida (Crustacea: Copepoda)	ANTABIF IPT
+SO-Polylist	ANTABIF IPT
+SOMBASE – Southern Ocean mollusc database: a tool for biogeographic analysis in diversity and evolution	ANTABIF IPT
+SOVIET ANTARCTIC EXPEDITIONS for Zooplankton (R.V. OB March-May 1956, January-March 1957;R.V.ACADEMIC KURCHATOV, October 1971-January 1972; RV DMITRY MENDELEEV;R.V.ACADEMIC IOFFE 1992).	ANTABIF IPT
+Sea cucumbers (Echinodemata, Holothuroidea) from the JR275 expedition to the Eastern Weddell Sea, Antarctica - Data	ANTABIF IPT
+Sea spiders (Arthropoda, Pycnogonida) from ten recent research expeditions to the Antarctic Peninsula, Scotia Arc and Weddell Sea - data	ANTABIF IPT
+Sequenced genes (ureC gene) and a metagenome from Archaea in Arctic and Antarctic marine environments	ANTABIF IPT
+Soil microbiome (Bacteria) on Keller Peninsula (Antarctica)	ANTABIF IPT
+South American Antarctic Marine Biodiversity Literature	ANTABIF IPT
+Southern Ocean Cnidarian Collections	ANTABIF IPT
+Southern Ocean Experimental Metatranscriptome to Investigate Micronutrient Colimitation	ANTABIF IPT
+Southern Ocean Ostracoda (except Halocypridina)	ANTABIF IPT
+Southern Ocean microbial dataset	ANTABIF IPT
+Southern Ocean octopus	ANTABIF IPT
+Southern Ocean oligochaete occurrence data - a literature-based compilation	ANTABIF IPT
+Stable isotope ratios and elemental contents of C, N and S in benthic organisms sampled during the PROTEKER 5 summer campaign in Kerguelen Islands (2016) - data	ANTABIF IPT
+Stable isotope ratios of C, N and S in Southern Ocean sea stars (1985-2017)	ANTABIF IPT
+Staying cool also has consequences: increased sea ice cover disrupts food web structure in East Antarctica-Data	ANTABIF IPT
+Surface and deep marine bacterial communities in the Arctic and Antarctic	ANTABIF IPT
+Synoicum adareanum microbiome	ANTABIF IPT
+Tagged Seal Location Data from SOGLOBEC	ANTABIF IPT
+The Belgica 121 expedition to the Western Antarctic Peninsula: a high resolution biodiversity census	ANTABIF IPT
+The First Comprehensive Description of the Biodiversity and Biogeography of Antarctic and Sub-Antarctic Intertidal Communities	ANTABIF IPT
+The Register of Antarctic Marine Species	ANTABIF IPT
+The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research	ANTABIF IPT
+The skin microbiome (based on 16S) of Antarctic Humpback whales (Megaptera novaeangliae)	ANTABIF IPT
+V3-V4 16S rDNA of soil bacteria in King George Island and Deception Island	ANTABIF IPT
+Vulnerable Marine Ecosystem Indicator Taxa recorded by submarine as evidence of the presence of Vulnerable Marine Ecosystems, Antarctic Peninsula - data	ANTABIF IPT
+Walter Herwig 1978 (FFS): SeaStars (Echinodermata, Asteroidea)	ANTABIF IPT
+Weddell Sea macrozoobenthos EASIZ I	ANTABIF IPT
+Western Antarctic Peninsula Bacteria (Mesocosm exp.)	ANTABIF IPT
+Winter Picoplankton Diversity and Distribution in the US Antarctic Marine Living Resources Study Area - Northern Antarctic Peninsula	ANTABIF IPT
+Zooplankton Abundance Based on Taxa and Life Stages or Size	ANTABIF IPT
+Zooplankton abundance and population structures assessed during April-September of 2001-2, Southern Ocean, GLOBEC	ANTABIF IPT
+algal_mat_microbiome_east_antarctica	ANTABIF IPT
+amundsen_sea_molluscs	ANTABIF IPT
+benthic communities bacterial in Antarctica and the arctic	ANTABIF IPT
+cyanobacterial mats of from the Byers Peninsula, Antarctica	ANTABIF IPT
+fumarolic microbial communities at Tramway Ridge, Mt. Erebus, Antarctica	ANTABIF IPT
+microbial Eukaryotes in lakes along an Argentinian-Antarctic geographical gradient	ANTABIF IPT
+virome_antarctic_lakes_2010	ANTABIF IPT
