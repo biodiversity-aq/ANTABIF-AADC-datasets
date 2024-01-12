@@ -11,7 +11,7 @@ The script gets dataset title from these installation and the following comparis
 - common dataset titles between AADC IPT and ANTABIF IPT
 - common dataset titles between AADC DiGIR and ANTABIF IPT
 
-All datasets from all the IPT and DiGIR instances above were written into file `[datasets_from_installations.txt](data/datasets_from_installations.txt)`.
+All datasets from all the IPT and DiGIR instances above were written into file `data/datasets_from_installations.txt`.
 
 ## Repo structure
 
